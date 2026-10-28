@@ -1,0 +1,8 @@
+{
+  "name": "workflow-lanes",
+  "version": "0.1.0",
+  "description": "A Workflows button above the prompt that opens a pane with each workflow run, phase by phase, with timings and estimates",
+  "author": { "name": "Depdx" },
+  "repository": "https://github.com/Depdx/workflow-lanes",
+  "types": "./types/index.d.ts"
+}

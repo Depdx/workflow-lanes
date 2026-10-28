@@ -1,0 +1,6 @@
+{
+  "name": "workflow-lanes",
+  "owner": { "name": "Depdx" },
+  "metadata": { "description": "The workflow-lanes mod for Claude Code: live workflow runs, phase by phase" },
+  "plugins": [{ "name": "workflow-lanes", "source": "./" }]
+}

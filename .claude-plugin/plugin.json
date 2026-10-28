@@ -4,5 +4,6 @@
   "description": "A Workflows button above the prompt that opens a pane with each workflow run, phase by phase, with timings and estimates",
   "author": { "name": "Depdx" },
   "repository": "https://github.com/Depdx/workflow-lanes",
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }

@@ -55,3 +55,7 @@ It adds nothing to what the model reads: no prompt section, tool or model call, 
 claude plugin validate .
 claude plugin test .
 ```
+
+## License
+
+[MIT](LICENSE)
